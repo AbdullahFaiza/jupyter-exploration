@@ -1,4 +1,4 @@
-# jupyter-exploration Lab Session
+# Jupyter-Exploration Lab Session
 
 ## Overview
 This lab session focuses on mastering the fundamentals of GitHub, the industry-leading platform for version control and collaborative software development. Through hands-on exploration, it helped in setting up and managing a GitHub repository, make commits, and manage changes efficiently. 
