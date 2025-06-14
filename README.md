@@ -1,7 +1,7 @@
-# Jupyter-Exploration Lab Session
+# Jupyter-Exploration (Bonus Points Tutorial - Intro to Jupyter and GitHub )
 
 ## Overview
-This lab session focuses on mastering the fundamentals of GitHub, the industry-leading platform for version control and collaborative software development. Through hands-on exploration, it helped in setting up and managing a GitHub repository, make commits, and manage changes efficiently. 
+This session focuses on mastering the fundamentals of GitHub, the industry-leading platform for version control and collaborative software development. Through hands-on exploration, it helped in setting up and managing a GitHub repository, make commits, and manage changes efficiently. 
 
 The session begins with creating a GitHub account and familiarizing oneself with the GitHub interface, exploring key features such as repositories, issues, and pull requests. Next, we created a new repository named "jupyter-exploration" and initialize it with a README file. Finally, made our first commit by editing the README to include a brief description of the lab session. By the end of this exercise, gained preliminary working knowledge of GitHub's core functionality and how it serves as a cloud-based hosting platform that enables developers to manage, track, and version their source code effectively.
 
